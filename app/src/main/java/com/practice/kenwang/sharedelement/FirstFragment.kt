@@ -11,7 +11,7 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 
 class FirstFragment : Fragment() {
-    val imageURL: String = "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/s851x315/18446939_1001361036664932_4104315194504340321_n.jpg?oh=c0577b85c565d132c17688773010dfa4&oe=599FF716"
+    val imageURL: String = "http://i.imgur.com/mtPxFVH.jpg"
 
     override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         return inflater?.inflate(R.layout.fragment_first, container, false)

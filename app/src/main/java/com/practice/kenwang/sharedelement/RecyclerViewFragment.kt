@@ -15,7 +15,7 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 
 class RecyclerViewFragment: Fragment() {
-    private val imageArray:Array<String> = arrayOf("https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/s851x315/18446939_1001361036664932_4104315194504340321_n.jpg?oh=c0577b85c565d132c17688773010dfa4&oe=599FF716",
+    private val imageArray:Array<String> = arrayOf("http://i.imgur.com/mtPxFVH.jpg",
             "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-0/s480x480/18920390_1014811138653255_999094087349073167_n.jpg?oh=b94f780cc8f4108cc7be9552140d93a3&oe=59AEA3FB",
             "https://scontent-tpe1-1.xx.fbcdn.net/v/t31.0-8/18880318_1014711481996554_7004240665043030820_o.jpg?oh=72be2ca2ccbb0d95e4290d1dfbcaf90b&oe=59AB064D",
             "https://scontent-tpe1-1.xx.fbcdn.net/v/t31.0-8/18836703_1014614058672963_2230303680990487678_o.jpg?oh=5ff1def29b6f6be3d90db286f8f49dbf&oe=59E1EA0B",
